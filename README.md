@@ -20,7 +20,7 @@
 
 ```
 cd existing_repo
-git remote add origin https://santamaria.informatik.uni-kl.de/Kankeu/hungry-ball.git
+git remote add origin https://github.com/Arskan17/Hungry-Ball.git
 git branch -M main
 git push -uf origin main
 ```
@@ -60,19 +60,3 @@ Use this link
 
 ## Usage
 Simply copy the .jar file to a directory of your choice and exacute it.
-
-
-## Roadmap
-- Task1 : creating a Simple Java calculator
-- TBD
-
-
-
-## Authors and acknowledgment
-- Dumitru Druta
-- Mbikhoum Noumfie Fabrice Lea
-- Mihai Adauji
-- Mugneghe kankeu Arsène Ulrich
-
-## Project status
-Just got started.
